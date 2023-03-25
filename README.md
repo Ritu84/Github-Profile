@@ -33,6 +33,4 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push to the branch (git push origin feature/your-feature-name)
 5. Create a new pull request
 
-## License
 
-This project is licensed under the MIT License - [MIT](https://choosealicense.com/licenses/mit/)
