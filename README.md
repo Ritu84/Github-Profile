@@ -12,7 +12,7 @@ This is a JavaScript application that uses the GitHub API to display information
 
 To use this app, simply download or clone the repository to your local machine and open the index.html file in your web browser.
 
-Alternatively, you can also access the live demo of the app [here](https://rm-githhub-profile-app.netlify.app/)
+Alternatively, you can also access the live demo of the app [here](https://ritu84.github.io/Github-Profile/)
 
 ## Technologies Used
 
