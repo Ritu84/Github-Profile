@@ -1,6 +1,7 @@
 # GitHub Profile App
 
 This is a JavaScript application that uses the GitHub API to display information about a user's profile on GitHub.
+Checkout the project here: https://ritu84.github.io/Github-Profile/ ✨✨
 
 ## Features
 
